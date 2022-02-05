@@ -1,0 +1,26 @@
+.box {
+    background-color: rgb(63, 60, 60);
+    display: flex;
+}
+
+.box a {
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(170, 152, 169);
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h1,h2,h3,h5 {
+    color: blueviolet;
+}
+
+button {
+    border-radius: 5px;
+    background-color: rgb(148, 128, 167);
+}
